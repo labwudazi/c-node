@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    这是我新添加的
     <Header />
     <div class="main">
       <router-view />
